@@ -1,0 +1,10 @@
+tail_shape :Tapering to a point
+near_sea :no
+shape_ventral_scales :Extended to full body width
+head_shape :Triangular shape head
+expandable_hood :no
+hexagonal_vertebral_scales:yes
+loreal_pit_present :no
+color_scales_size:Brown and Large Scales
+head_scales_and_long_body :yes
+cross_on_head:no

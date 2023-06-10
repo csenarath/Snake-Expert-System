@@ -1,0 +1,10 @@
+tail_shape :Paddle shaped
+near_sea :yes
+shape_ventral_scales :Not extended to full body width
+head_shape :Neck not well defined
+expandable_hood :no
+hexagonal_vertebral_scales:yes
+loreal_pit_present :no
+color_scales_size: Green and Small Scales
+head_scales_and_long_body :yes
+cross_on_head: no
